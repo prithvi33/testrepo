@@ -25,7 +25,7 @@ public class KeyboardActions {
 		Thread.sleep(3000);
 		
 		p.sendKeys(Keys.DELETE).perform();
-		Thread.sleep(3000);  // new added for github..
+		Thread.sleep(3000);  // Manager did changes ...
 		
 		
 		driver.close();
